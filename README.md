@@ -153,40 +153,9 @@ O mais importante é que o jogo não seja apenas uma cópia de Plants vs. Zombie
 Em resumo: estamos construindo um jogo de estratégia e defesa em que o jogador explora um mundo dividido, utiliza Floraunas para enfrentar
 
 
+https://chatgpt.com/share/6afe09ec-8f58-83e9-8c97-a2cfa413d733
 
 
 
 
 
-flowchart TD
-    A["🎮 INÍCIO DO JOGO"] --> B["Personalização do jogador"]
-    B --> C["Tutorial com Benedito 🐕"]
-    C --> D["🏙️ Cidade Tecnológica"]
-
-    D --> E["Sistema de energia ⚡"]
-    E --> F["Girassóis produzem sóis"]
-    F --> G["Máquina transforma sóis em energia"]
-    G --> H["Abertura das cápsulas"]
-    H --> I["Obtenção das Floraunas 🌱"]
-    I --> J["Evolução e preparação das Floraunas"]
-
-    J --> K["🌉 Ponte Agachurisso"]
-    K --> L["Interface de seleção de fases"]
-    L --> M["Progressão pelas 14 fases"]
-
-    M --> N["🏛️ Grécia Antiga"]
-    M --> O["🌸 Rio da Lotus e Lago Sagrado"]
-    M --> P["❄️ Picos Congelados"]
-    M --> Q["🐊 Pântano"]
-
-    N --> R["Novos desafios"]
-    O --> R
-    P --> R
-    Q --> R
-
-    R --> S["🌋 Vulcão"]
-    S --> T["Carniceiro de Magma Gigante"]
-    T --> U["Confronto com o chefe"]
-    U --> V["Erupção do vulcão"]
-    V --> W["Continuação da aventura"]
-```
