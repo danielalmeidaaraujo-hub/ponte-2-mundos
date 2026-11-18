@@ -1,84 +1,192 @@
-# 🌱 PROJETO DO JOGO
+### 🌱 Resumo geral do seu jogo
 
-## 1. História e universo
+O seu jogo é um projeto inspirado em Plants vs. Zombies, mas com universo, criaturas, história, personagens e mecânicas próprias. A ideia é criar um jogo de estratégia e defesa em 2D, com uma aparência bonita, relativamente realista, mas sem perder o estilo de jogo.
 
-O jogo acontece em um mundo dividido entre duas grandes regiões, separadas por uma ponte que pode ser aberta.
+### 1\. 🌎 História e universo
 
-De um lado existe uma cidade tecnológica, com construções modernas. Do outro, uma região inspirada na Grécia Antiga, habitada por seres chamados **grecionos**.
+O mundo do jogo é dividido em regiões diferentes:
 
-Nessa região existe um vulcão extinto, cercado por ruínas e construções antigas. Após a descoberta de diamantes e minérios, os habitantes passaram a explorar a região.
+* Cidade Tecnológica: uma civilização avançada, onde começa a aventura.
 
-Entretanto, algo estranho aconteceu: uma doença relacionada à lava e às substâncias presentes no ambiente começou a transformar os habitantes em criaturas chamadas **carneceiros de magma**.
+* Ponte Agachurisso: faz a ligação entre os dois lados do mundo.
 
-O objetivo é atravessar as regiões, enfrentar os inimigos e chegar ao vulcão para descobrir a origem das transformações e encontrar o grande responsável por tudo.
+* Grécia Antiga: região com casas, escadarias e templos gregos.
 
-## 2. Protagonista
+* Regiões adicionais: montanhas congeladas, pântanos, rio da Lotus, lago sagrado e vulcão.
 
-O protagonista é **Agachuri Sal**, um cachorro cinza que ajuda as plantas a defender o território.
+A história envolve um vulcão que provoca uma contaminação por lava, originando criaturas perigosas chamadas Carniceiros de Magma, que ameaçam a Cidade Tecnológica.
 
-Ele acompanha a jornada e enfrenta os inimigos ao longo das fases.
+### 2\. 🌿 As Floraunas
 
-## 3. As plantas
 
-As plantas são chamadas de **floralinas**.
 
-Elas são seres híbridos, com características vegetais e propriedades especiais. São responsáveis pela defesa contra os inimigos.
+As Floraunas são criaturas híbridas que misturam características de plantas e animais.
 
-Algumas plantas e ideias já desenvolvidas:
+Características:
 
-- Girassol: relacionado à produção de energia.
-- Árvore de Maçãs.
-- Orquídea.
-- Samambaia.
-- Árvore Espinhosa.
-- Planta Solar Ofensiva.
-- Trevo.
+* Não possuem olhos, boca ou expressões faciais.
 
-As plantas podem apresentar habilidades diferentes, combinações e evoluções.
+* Cada Florauna possui características e habilidades próprias.
 
-## 4. Sistema de energia e mecânicas
+* Podem ser utilizadas para defender o território.
 
-Uma das ideias é utilizar a energia solar produzida pelas plantas para gerar recursos chamados provisoriamente de **pírolas** ou raiozinhos.
+* Existem diferentes combinações de plantas e animais.
 
-Algumas plantas precisam acumular energia elétrica para funcionar. Depois de fornecer energia, podem entrar em estado de descanso.
+Uma criatura especial é a Orquídea Negra Serpente, uma mistura de orquídea com serpente. Quanto mais orquídeas estiverem presentes, maior será seu dano.
 
-Também existe a ideia de que determinadas plantas só conseguem realizar suas funções quando possuem energia suficiente.
+### 3\. ⚡ Sistema de energia
 
-O jogador escolhe as plantas e as posiciona estrategicamente para impedir que os inimigos avancem.
+O jogo possui uma mecânica própria para conseguir Floraunas.
 
-O sistema de evolução poderá ter inspiração em Clash Royale, permitindo melhorar as plantas ou escolher diferentes possibilidades de desenvolvimento.
+* Girassóis produzem sóis.
 
-## 5. Progressão
+* Os sóis são enviados para uma máquina de energia.
 
-O jogador avança por diferentes regiões, enfrentando inimigos cada vez mais desafiadores.
+* A máquina transforma essa energia em eletricidade.
 
-Uma mecânica interessante já pensada é que, quando um inimigo consegue chegar ao final do percurso, o jogador pode voltar uma fase já ultrapassada, em vez de simplesmente reiniciar tudo.
+* A eletricidade permite abrir cápsulas que contêm Floraunas.
 
-As plantas antigas permanecem, mas os inimigos podem ficar mais fortes.
+Também existe a ideia de um segundo modo de energia, que produz um sol mais potente, capaz de fortalecer as Floraunas, funcionando como uma espécie de adubo.
 
-## 6. Mapa e regiões
+### 4\. 🧑‍🚀 Personagem e tutorial
 
-A jornada foi planejada com diferentes ambientes:
+O jogador poderá escolher seu próprio apelido e personalizar seu avatar com itens.
 
-1. Ponte: início da aventura, com uma sequência de níveis.
-2. Cidade da Grécia: região inspirada na arquitetura e cultura grega.
-3. Planalto e templo: área com construções antigas e desafios.
-4. Colinas nevadas: região de clima frio.
-5. Pântano: ambiente que exige uma planta especial para lidar com a água.
-6. Rio: nova região de travessia.
-7. Escadas reais: caminho que leva à região final.
-8. Vulcão: localização do chefe principal.
+O personagem Benedito será um cachorro holográfico, com aura azul, que acompanhará o jogador durante o tutorial.
 
-## 7. Inimigos e chefe final
+Ele funcionará como um comunicador, explicando as mecânicas e orientando o jogador.
 
-Os inimigos são habitantes transformados pela doença relacionada à lava.
+### 5\. 🌉 A Ponte Agachurissal
 
-Entre as ideias desenvolvidas está o **Zumbi da Marreta**, que consegue interferir no terreno, quebrando ou sujando novamente áreas que já foram limpas.
 
-O grande chefe será um **carneceiro de magma gigante**, localizado no vulcão e relacionado à origem das transformações.
+A ponte é uma parte importante da progressão do jogo.
 
-## 8. Objetivo principal
+A ideia definida é:
 
-Acompanhar Agachuri Sal em sua jornada, utilizar as floralinas para defender os territórios, enfrentar os habitantes transformados e descobrir o que realmente está acontecendo no vulcão.
+* O jogador poderá clicar na ponte.
 
-O jogo mistura estratégia, defesa de território, exploração, progressão e fantasia.
+* Ao clicar, aparecerá uma interface com as fases disponíveis.
+
+* A ponte terá um mecanismo próprio.
+
+* Cada fase representará um avanço na exploração e na história.
+
+O planejamento atual prevê 14 fases, distribuídas entre diferentes regiões.
+
+Também existem fases em que a abertura da ponte pode deixar as Floraunas do outro lado vulneráveis.
+
+### 6\. 🗺️ Regiões e fases
+
+O planejamento inclui:
+
+| Região             | Característica                            |
+| ------------------ | ----------------------------------------- |
+| Cidade Tecnológica | Local inicial e evolução das Floraunas    |
+| Ponte Agachurisso  | Principal ligação e sequência de fases    |
+| Grécia Antiga      | Casas, escadarias e templo                |
+| Rio da Lotus       | Região aquática                           |
+| Lago Sagrado       | Área especial                             |
+| Picos Congelados   | Montanhas cobertas de neve                |
+| Pântano            | Região onde será possível encontrar Lotus |
+| Vulcão             | Região do confronto com o chefe           |
+
+O chefe do vulcão será um Carniceiro de Magma gigante, e a região poderá sofrer uma erupção depois do confronto.
+
+### 7\. 🎮 Desenvolvimento e aparência
+
+O jogo será desenvolvido com OpenCode.
+
+As características visuais desejadas são:
+
+* Jogo 2D com visão lateral.
+
+* Cenários bonitos e relativamente realistas.
+
+* Interface organizada e agradável.
+
+* Campo de batalha dividido em espaços para posicionar as Floraunas.
+
+* Menus, mapa, lobby e seleção de fases.
+
+* Jogável tanto no celular quanto no computador.
+
+A ideia é desenvolver o jogo por partes, começando pelas interfaces e pelo funcionamento das mecânicas principais.
+
+### 8\. 📌 O que estamos desenvolvendo atualmente?
+
+Pelo nosso planejamento mais recente, estamos trabalhando na parte visual e estrutural do jogo.
+
+Etapa atual: Ponte Agachurisso
+
+Em desenvolvimento
+
+Objetivos atuais:
+
+* Criar a interface da ponte.
+
+* Fazer a ponte ser clicável.
+
+* Mostrar as fases ao clicar nela.
+
+* Criar o visual do campo de batalha.
+
+* Desenvolver novas Floraunas.
+
+* Fazer o OpenCode compreender os desenhos e referências visuais.
+
+### 🌟 Identidade do projeto
+
+O mais importante é que o jogo não seja apenas uma cópia de Plants vs. Zombies. Ele terá:
+
+* Um universo próprio.
+
+* Criaturas originais.
+
+* Uma história de exploração e contaminação.
+
+* Um sistema de energia diferente.
+
+* Regiões com identidades visuais próprias.
+
+* Progressão por fases e descobertas.
+
+Em resumo: estamos construindo um jogo de estratégia e defesa em que o jogador explora um mundo dividido, utiliza Floraunas para enfrentar
+
+
+
+
+
+
+
+flowchart TD
+    A["🎮 INÍCIO DO JOGO"] --> B["Personalização do jogador"]
+    B --> C["Tutorial com Benedito 🐕"]
+    C --> D["🏙️ Cidade Tecnológica"]
+
+    D --> E["Sistema de energia ⚡"]
+    E --> F["Girassóis produzem sóis"]
+    F --> G["Máquina transforma sóis em energia"]
+    G --> H["Abertura das cápsulas"]
+    H --> I["Obtenção das Floraunas 🌱"]
+    I --> J["Evolução e preparação das Floraunas"]
+
+    J --> K["🌉 Ponte Agachurisso"]
+    K --> L["Interface de seleção de fases"]
+    L --> M["Progressão pelas 14 fases"]
+
+    M --> N["🏛️ Grécia Antiga"]
+    M --> O["🌸 Rio da Lotus e Lago Sagrado"]
+    M --> P["❄️ Picos Congelados"]
+    M --> Q["🐊 Pântano"]
+
+    N --> R["Novos desafios"]
+    O --> R
+    P --> R
+    Q --> R
+
+    R --> S["🌋 Vulcão"]
+    S --> T["Carniceiro de Magma Gigante"]
+    T --> U["Confronto com o chefe"]
+    U --> V["Erupção do vulcão"]
+    V --> W["Continuação da aventura"]
+```
